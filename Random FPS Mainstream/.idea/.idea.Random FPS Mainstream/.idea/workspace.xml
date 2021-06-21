@@ -10,9 +10,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharaLook.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/Characontroller/Characontroller.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CharaLook.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CharaMovement.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uGHqEXZkWNhLBzRRRhkcQr57qE" />
@@ -57,6 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1624285198070</updated>
       <workItem from="1624285208658" duration="7329000" />
+      <workItem from="1624296747167" duration="1926000" />
     </task>
     <servers />
   </component>
@@ -75,6 +81,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
