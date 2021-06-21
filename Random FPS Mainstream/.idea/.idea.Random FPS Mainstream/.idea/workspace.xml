@@ -12,10 +12,12 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharaLook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveCamera.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/Characontroller/Characontroller.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MoveCamera.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CharaLook.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CharaMovement.cs" />
     </changedPaths>

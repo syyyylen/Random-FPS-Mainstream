@@ -9,6 +9,7 @@
         <e p="Scripts" t="Include">
           <e p="CharaLook.cs" t="Include" />
           <e p="CharaMovement.cs" t="Include" />
+          <e p="MoveCamera.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
