@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17eaa746bced65746969ee24d5a65421, type: 3}
+  m_Name: DemoWeapon
+  m_EditorClassIdentifier: 
+  m_weaponName: Demo Weapon
+  m_weaponPrefab: {fileID: 242360489005485672, guid: be8d9690cbdfe4b41a3f40de0552ab1b,
+    type: 3}
+  m_weaponDamages: 25
+  m_weaponMagazine: 31
+  m_weaponRateOfFire: 850
+  m_weaponReloadTime: 1.8
+  m_weaponRecoil: 0.1

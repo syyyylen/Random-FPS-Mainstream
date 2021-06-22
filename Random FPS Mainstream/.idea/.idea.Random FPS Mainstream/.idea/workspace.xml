@@ -17,6 +17,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data Stockers/WeaponSO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../Bureau/ETPA/2_ANNEE/Prog_Unity/TRAINING_EXO_RPG/Mini_RPG/Assets/Scripts/Synchs/SynchFloat.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../Bureau/ETPA/2_ANNEE/Prog_Unity/TRAINING_EXO_RPG/Mini_RPG/Assets/Scripts/Synchs/SynchInt.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../Bureau/ETPA/2_ANNEE/Prog_Unity/TRAINING_EXO_RPG/Mini_RPG/Assets/Scripts/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player Scripts/WeaponManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -29,6 +31,8 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Data Stockers/SynchInt.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Data Stockers/SynchFloat.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Data Stockers/WeaponSO.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player Scripts/CharaLook.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player Scripts/WeaponManager.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uGHqEXZkWNhLBzRRRhkcQr57qE" />
@@ -76,7 +80,7 @@
       <workItem from="1624296747167" duration="1926000" />
       <workItem from="1624362602300" duration="623000" />
       <workItem from="1624364704629" duration="1202000" />
-      <workItem from="1624393708596" duration="1020000" />
+      <workItem from="1624393708596" duration="4603000" />
     </task>
     <servers />
   </component>

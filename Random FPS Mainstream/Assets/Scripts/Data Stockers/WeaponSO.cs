@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-[CreateAssetMenu(fileName = "NewWeapon", menuName = "GD2/Ammo")]
+[CreateAssetMenu(fileName = "NewWeapon", menuName = "GD2/Weapon")]
 
 public class WeaponSO : ScriptableObject
 {

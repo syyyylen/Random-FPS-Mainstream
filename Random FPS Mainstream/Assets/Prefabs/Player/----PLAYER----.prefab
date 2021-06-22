@@ -74,6 +74,7 @@ GameObject:
   - component: {fileID: 6907664465778330869}
   - component: {fileID: 6907664465778330868}
   - component: {fileID: 6907664465778330874}
+  - component: {fileID: 833407960}
   m_Layer: 0
   m_Name: Player_Components
   m_TagString: Untagged
@@ -155,6 +156,23 @@ MonoBehaviour:
   m_sensX: 100
   m_sensY: 100
   m_playerCamera: {fileID: 6907664465857637795}
+  m_orientation: {fileID: 6907664466233691521}
+--- !u!114 &833407960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6907664465778330870}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b45dbeb78fab57428a41f6b625a5d9a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_weapon: {fileID: 11400000, guid: af683aca19d761f4ea447b1e0da89846, type: 2}
+  m_weaponPrefabOffsetX: 0.6
+  m_weaponPrefabOffsetY: 0.3
+  m_weaponPrefabOffsetZ: 0.5
   m_orientation: {fileID: 6907664466233691521}
 --- !u!1 &6907664465857637794
 GameObject:
