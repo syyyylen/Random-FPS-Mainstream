@@ -7,9 +7,22 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
-          <e p="CharaLook.cs" t="Include" />
-          <e p="CharaMovement.cs" t="Include" />
-          <e p="MoveCamera.cs" t="Include" />
+          <e p="Data Stockers" t="Include">
+            <e p="WeaponSO.cs" t="Include" />
+          </e>
+          <e p="Player Scripts" t="Include">
+            <e p="CharaLook.cs" t="Include" />
+            <e p="CharaMovement.cs" t="Include" />
+            <e p="MoveCamera.cs" t="Include" />
+          </e>
+          <e p="Singleton" t="Include">
+            <e p="Singleton.cs" t="Include" />
+          </e>
+          <e p="Synch Vars" t="Include">
+            <e p="SynchFloat.cs" t="Include" />
+            <e p="SynchInt.cs" t="Include" />
+            <e p="SynchVar.cs" t="Include" />
+          </e>
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />

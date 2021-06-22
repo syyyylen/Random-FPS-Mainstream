@@ -132,10 +132,10 @@ MonoBehaviour:
   m_sprintKey: 304
   m_moveSpeed: 6
   m_airMultiplier: 0.4
-  m_walkSpeed: 2
-  m_sprintSpeed: 6
-  m_accelerationSpeed: 2
-  m_jumpForce: 15
+  m_walkSpeed: 3
+  m_sprintSpeed: 5
+  m_accelerationSpeed: 4
+  m_jumpForce: 10
   m_groundCheck: {fileID: 6907664465388856204}
   m_groundMask:
     serializedVersion: 2
