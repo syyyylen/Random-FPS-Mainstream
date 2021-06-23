@@ -11,8 +11,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharaLook.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../Bureau/ETPA/2_ANNEE/Prog_Unity/TRAINING_EXO_RPG/Infiltration_SpéPorg/Assets/Scripts/Mains/Singleton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../Bureau/ETPA/2_ANNEE/Prog_Unity/TRAINING_EXO_RPG/Mini_RPG/Assets/Scripts/Synchs/SynchVar.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data Stockers/WeaponSO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../Bureau/ETPA/2_ANNEE/Prog_Unity/TRAINING_EXO_RPG/Mini_RPG/Assets/Scripts/Behaviours/ProjectileBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../Bureau/ETPA/2_ANNEE/Prog_Unity/TRAINING_EXO_RPG/Mini_RPG/Assets/Scripts/Synchs/SynchInt.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../Bureau/ETPA/2_ANNEE/Prog_Unity/TRAINING_EXO_RPG/Mini_RPG/Assets/Scripts/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player Scripts/WeaponManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../Bureau/ETPA/2_ANNEE/Prog_Unity/TRAINING_EXO_RPG/Mini_RPG/Assets/Scripts/Datas_Stockers/Weapon.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../Bureau/ETPA/2_ANNEE/Prog_Unity/TRAINING_EXO_RPG/Mini_RPG/Assets/Scripts/Synchs/SynchFloat.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bullet Script/BulletBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -20,6 +28,14 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/MoveCamera.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CharaLook.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CharaMovement.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Singleton/Singleton.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Data Stockers/SynchVar.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Data Stockers/SynchInt.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Data Stockers/SynchFloat.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player Scripts/CharaLook.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Bullet Script/BulletBehaviour.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player Scripts/WeaponManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Data Stockers/WeaponSO.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uGHqEXZkWNhLBzRRRhkcQr57qE" />
@@ -65,6 +81,9 @@
       <updated>1624285198070</updated>
       <workItem from="1624285208658" duration="7329000" />
       <workItem from="1624296747167" duration="1926000" />
+      <workItem from="1624362602300" duration="623000" />
+      <workItem from="1624364704629" duration="1202000" />
+      <workItem from="1624393708596" duration="12026000" />
     </task>
     <servers />
   </component>

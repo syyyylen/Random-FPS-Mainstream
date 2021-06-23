@@ -36,6 +36,6 @@ public class CharaLook : MonoBehaviour
         m_xRotation = Mathf.Clamp(m_xRotation, -90.0f, 90.0f);
 
         m_playerCamera.transform.localRotation = Quaternion.Euler(m_xRotation, m_yRotation, 0);
-        m_orientation.transform.rotation = Quaternion.Euler(0, m_yRotation, 0);
+        m_orientation.transform.rotation = Quaternion.Euler(m_xRotation , m_yRotation, 0);
     }
 }
