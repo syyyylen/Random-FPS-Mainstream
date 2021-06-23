@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 17eaa746bced65746969ee24d5a65421, type: 3}
-  m_Name: DemoWeapon
+  m_Name: M16A3
   m_EditorClassIdentifier: 
-  m_weaponName: Demo Weapon
-  m_weaponPrefab: {fileID: 242360489005485672, guid: be8d9690cbdfe4b41a3f40de0552ab1b,
+  m_weaponName: M16A3
+  m_weaponPrefab: {fileID: 919132149155446097, guid: 0776e46c78b670e49bb49cb6954f33f6,
     type: 3}
   m_weaponDamages: 25
   m_weaponMagazine: 31

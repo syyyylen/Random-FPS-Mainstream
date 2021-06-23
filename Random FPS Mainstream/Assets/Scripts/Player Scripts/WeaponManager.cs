@@ -4,15 +4,11 @@ using TMPro;
 
 public class WeaponManager : MonoBehaviour
 {
+    [SerializeField] private Camera m_playerCamera;
+    
     [Header("Currently equiped player's weapon")]
     [SerializeField] private WeaponSO m_weapon;
 
-    [Header("Weapon Prefab taken from WeaponSO")]
-    private GameObject m_weaponPrefab;
-
-    [SerializeField] private Camera m_playerCamera;
-    [SerializeField] private Transform m_orientation;
-    
     [Header("HitMarker")]
     [SerializeField] private GameObject m_hitMarker;
     private Coroutine m_hitMarkerRoutine;
@@ -22,6 +18,7 @@ public class WeaponManager : MonoBehaviour
     private float m_fireTimer;
     private int m_bulletsInMag;
     [SerializeField] private TextMeshProUGUI m_bulletsInMagText;
+    private LayerMask m_layerEnnemis;
 
     //About Reload 
     private KeyCode m_reloadKey = KeyCode.R;
@@ -31,6 +28,7 @@ public class WeaponManager : MonoBehaviour
     
     private void Start()
     {
+        m_layerEnnemis = LayerMask.GetMask("Ennemis");
         SetEquipedWeapon(m_weapon);
         m_bulletsInMag = m_weapon.m_weaponMagazine;
         UpdateUI();
@@ -39,12 +37,11 @@ public class WeaponManager : MonoBehaviour
     private void SetEquipedWeapon(WeaponSO p_newWeapon)
     {
         m_weapon = p_newWeapon;
-        m_weaponPrefab = Instantiate(m_weapon.m_weaponPrefab, transform.position, transform.rotation);
     }
 
     private void Update()
     {
-        MoveWeapon();
+        //MoveWeapon();
 
         if (Input.GetKeyDown(m_reloadKey))
         {
@@ -60,12 +57,6 @@ public class WeaponManager : MonoBehaviour
             m_fireTimer += Time.deltaTime;
     }
 
-    private void MoveWeapon()
-    {
-        m_weaponPrefab.transform.position = transform.position;
-        m_weaponPrefab.transform.rotation = m_orientation.transform.rotation;
-    }
-
     private void Fire()
     {
         if (m_fireTimer < m_weapon.m_weaponRateOfFire) return;
@@ -74,7 +65,7 @@ public class WeaponManager : MonoBehaviour
         UpdateUI();
         
         RaycastHit hit;
-        if (Physics.Raycast(m_playerCamera.transform.position, m_playerCamera.transform.forward, out hit, m_range))
+        if (Physics.Raycast(m_playerCamera.transform.position, m_playerCamera.transform.forward, out hit, m_range, m_layerEnnemis))
         {
             Debug.Log(hit.transform.name);
             HitMarker();
