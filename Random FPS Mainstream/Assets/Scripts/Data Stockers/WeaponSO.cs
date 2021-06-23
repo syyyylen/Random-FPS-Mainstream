@@ -9,7 +9,7 @@ public class WeaponSO : ScriptableObject
     
     [Header("Weapon Prefab Modé 3D")]
     public GameObject m_weaponPrefab;
-    
+
     [Header("Weapons Stats")]
     public int m_weaponDamages = 0;
     
