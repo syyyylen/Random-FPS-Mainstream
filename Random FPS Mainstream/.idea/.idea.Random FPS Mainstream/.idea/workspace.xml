@@ -14,13 +14,13 @@
     <setting file="file://$PROJECT_DIR$/../../../../Bureau/ETPA/2_ANNEE/Prog_Unity/TRAINING_EXO_RPG/Infiltration_SpéPorg/Assets/Scripts/Mains/Singleton.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../Bureau/ETPA/2_ANNEE/Prog_Unity/TRAINING_EXO_RPG/Mini_RPG/Assets/Scripts/Synchs/SynchVar.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data Stockers/WeaponSO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../Bureau/ETPA/2_ANNEE/Prog_Unity/TRAINING_EXO_RPG/Mini_RPG/Assets/Scripts/Datas_Stockers/Weapon.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../Bureau/ETPA/2_ANNEE/Prog_Unity/TRAINING_EXO_RPG/Mini_RPG/Assets/Scripts/Synchs/SynchFloat.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../Bureau/ETPA/2_ANNEE/Prog_Unity/TRAINING_EXO_RPG/Mini_RPG/Assets/Scripts/Behaviours/ProjectileBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../Bureau/ETPA/2_ANNEE/Prog_Unity/TRAINING_EXO_RPG/Mini_RPG/Assets/Scripts/GameManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../Bureau/ETPA/2_ANNEE/Prog_Unity/TRAINING_EXO_RPG/Mini_RPG/Assets/Scripts/Synchs/SynchInt.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../Bureau/ETPA/2_ANNEE/Prog_Unity/TRAINING_EXO_RPG/Mini_RPG/Assets/Scripts/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player Scripts/WeaponManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../Bureau/ETPA/2_ANNEE/Prog_Unity/TRAINING_EXO_RPG/Mini_RPG/Assets/Scripts/Datas_Stockers/Weapon.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../../../Bureau/ETPA/2_ANNEE/Prog_Unity/TRAINING_EXO_RPG/Mini_RPG/Assets/Scripts/Synchs/SynchFloat.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bullet Script/BulletBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -34,8 +34,8 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Data Stockers/SynchFloat.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Player Scripts/CharaLook.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Bullet Script/BulletBehaviour.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Player Scripts/WeaponManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Data Stockers/WeaponSO.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player Scripts/WeaponManager.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uGHqEXZkWNhLBzRRRhkcQr57qE" />

@@ -15,10 +15,8 @@ MonoBehaviour:
   m_weaponName: Demo Weapon
   m_weaponPrefab: {fileID: 242360489005485672, guid: be8d9690cbdfe4b41a3f40de0552ab1b,
     type: 3}
-  m_weaponBulletPrefab: {fileID: 6853371860627925631, guid: 7fe2945d00a859b499eca7227c9bf36d,
-    type: 3}
   m_weaponDamages: 25
   m_weaponMagazine: 31
-  m_weaponRateOfFire: 850
+  m_weaponRateOfFire: 0.2
   m_weaponReloadTime: 1.8
   m_weaponRecoil: 0.1
