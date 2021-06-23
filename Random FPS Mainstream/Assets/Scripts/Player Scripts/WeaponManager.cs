@@ -16,7 +16,7 @@ public class WeaponManager : MonoBehaviour
     [Header("HitMarker")]
     [SerializeField] private GameObject m_hitMarker;
     private Coroutine m_hitMarkerRoutine;
-    private float m_hitMarkerDuration = 0.15f;
+    private float m_hitMarkerDuration = 0.1f;
     
     private float m_range = 100.0f;
     private float m_fireTimer;

@@ -17,6 +17,6 @@ MonoBehaviour:
     type: 3}
   m_weaponDamages: 25
   m_weaponMagazine: 31
-  m_weaponRateOfFire: 0.2
+  m_weaponRateOfFire: 0.15
   m_weaponReloadTime: 1.8
   m_weaponRecoil: 0.1
